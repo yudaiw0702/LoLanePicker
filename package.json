@@ -1,5 +1,5 @@
 {
-  "name": "questline",
+  "name": "LoLanePicker",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "element-plus": "^1.1.0-beta.8",
     "vue": "^2.6.11"
   },
   "devDependencies": {
